@@ -1,4 +1,4 @@
-Hello all, I'm ROHAN SAMUEL currently pursuing Pre-Final year B.Tech Information Technology.
+Hello all, I'm ROHAN SAMUEL currently pursuing Final year B.Tech Information Technology.
 Aspiring Full-Stack Developer eager to kickstart a career in web development.
 
 # Hi there ✨
